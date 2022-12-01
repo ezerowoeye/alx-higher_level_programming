@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-x="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+x = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print("{}".format(x))
