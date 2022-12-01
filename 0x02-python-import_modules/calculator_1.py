@@ -1,19 +1,15 @@
 #!/usr/bin/python3
 def add(a, b):
-    add = a + b
-    return add
+    return a + b
 
 
 def sub(a, b):
-    substract = a - b
-    return substract
+    return = a - b
 
 
 def mul(a, b):
-    multiply = a * b
-    return multiply
+    return = a * b
 
 
 def div(a, b):
-    divide = a/b
-    return divide
+    return = int(a / b)
