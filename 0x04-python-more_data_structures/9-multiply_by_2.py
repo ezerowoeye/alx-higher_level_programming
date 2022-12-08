@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 def multiply_by_2(a_dictionary):
-        return {key: val * 2 for key, val in a_dictionary.items()}
+    if(a_dictionary):
+        return(dict((x, y*2) for x, y in a_dictionary.items()))
