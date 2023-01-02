@@ -2,7 +2,8 @@
 """rectange class"""
 
 
+
 class Rectangle:
-     """makes rectangle object"""
+    """makes rectangle object"""
     def __init__(self):
         pass
