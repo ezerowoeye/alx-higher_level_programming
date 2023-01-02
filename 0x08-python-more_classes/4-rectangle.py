@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """rectangle class
-
 """
+
 
 class Rectangle:
     """makes rectangle object
@@ -15,6 +15,7 @@ class Rectangle:
     @property
     def width(self):
         """gets width
+
         """
         return self.__width
 
